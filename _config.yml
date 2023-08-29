@@ -1,7 +1,7 @@
 title: "Fourtyfi"
 email: wowthemesnet@gmail.com
 timezone: UTC
-baseurl: "https://tamagoid.github.io"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
