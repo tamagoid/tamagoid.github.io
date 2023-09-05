@@ -1,12 +1,9 @@
 ---
+layout: post
 title: "Rencanakan Liburan Lebih Mudah Bersama PayLater Traveloka"
-description: "Traveloka menyediakan fitur pembayaran baru yang sangat menguntungkan. Fitur itu adalah PayLater CSF yang dihadirkan oleh PT Caturnusa Sejahtera Finance. "
-date: 2023-08-25T14:19:15+07:00
-image: "/images/traveloka-paylater.png"
-categories: ["Sponsor"]
-author: "Adhi Wijaya"
-tags: ["Layanan", "Jasa", "Keuangan", "Liburan", "Wisata"]
-draft: false
+author: Adhi WIjaya
+categories: [ Liburan, Wisata ]
+image: assets/images/5.jpg
 ---
 
 Liburan bisa jadi solusi tepat untuk me-recharge energi dan beristirahat sejenak dari rutinitas. Hanya saja Anda butuh biaya yang memadai untuk bisa pergi liburan ke destinasi impian. Untungnya kini Traveloka menyediakan fitur pembayaran baru yang sangat menguntungkan. Fitur itu adalah [Paylater CSF](https://www.traveloka.com/id-id/travelokapay/paylater) yang dihadirkan oleh PT Caturnusa Sejahtera Finance. 
