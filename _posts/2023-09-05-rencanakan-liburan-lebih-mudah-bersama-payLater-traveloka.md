@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rencanakan Liburan Lebih Mudah Bersama PayLater Traveloka"
-author: Adhi WIjaya
+author: Adhi Wijaya
 categories: [ Liburan, Wisata ]
 image: assets/images/5.jpg
 ---
