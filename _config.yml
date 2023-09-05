@@ -27,17 +27,17 @@ authors:
   admin:
     name: admin
     display_name: admin
-    avatar: 'assets/images/adhi-wijaya.png'
+    avatar: 'assets/images/admin.png'
     email: webillian99@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
+    web: https://adhiwijaya.id/
+    twitter: https://twitter.com/webillian
     description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/webillian/
+  facebook: https://www.facebook.com/weebers.weebstersrapperdjogja
+  twitter: https://twitter.com/webillian
 
 # Plugins
 plugins: 
