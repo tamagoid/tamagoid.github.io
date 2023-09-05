@@ -3,7 +3,7 @@ layout: post
 title: "Pengen Liburan Pakai Pesawat Tapi Lagi Nggak Ada Duit? Yuk Coba Traveloka PayLater"
 author: Adhi Wijaya
 categories: [ Wisata, Liburan ]
-image: assets/images/5.jpg
+image: assets/images/4.jpg
 ---
 
 Apa belakangan ini, kamu lagi suntuk dengan banyaknya rutinitas? Apa kamu rasa kamu perlu liburan? Kalau kamu punya gejala ini, segara liburan aja. Jangan risau, kalau lagi bokek dan nggak ada duit, coba aja pakai PayLater Traveloka. Sayang loh kalau nggak dipakai. Soalnya sekarang ada [promo kartu kredit tiket pesawat](https://www.traveloka.com/id-id/travelokapay/paylater) di Traveloka.
