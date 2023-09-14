@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pengertian dan Perbedaan Reksadana Syariah dengan Konvensional"
-author: admin
+author: Adhi Wijaya
 categories: [ Jasa, Layanan, Investasi ]
 image: assets/images/1.jpg
 ---
