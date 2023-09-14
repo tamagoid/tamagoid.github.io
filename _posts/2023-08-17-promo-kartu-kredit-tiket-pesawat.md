@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pengen Liburan Pakai Pesawat Tapi Lagi Nggak Ada Duit? Yuk Coba Traveloka PayLater"
-author: Adhi
+author: Admin
 categories: [ Wisata, Liburan ]
 image: assets/images/4.jpg
 ---
