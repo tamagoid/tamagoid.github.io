@@ -5,7 +5,7 @@ baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Adhi Wijaya
+author: Adhi
 paginate: 12
 disqus: 'demowebsite'
 locale: id_ID
@@ -24,9 +24,9 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
-  adhi wijaya:
-    name: adhi wijaya
-    display_name: Adhi Wijaya
+  adhi:
+    name: adhi
+    display_name: Adhi
     avatar: 'assets/images/admin.png'
     email: webillian99@gmail.com
     web: https://adhiwijaya.id/
