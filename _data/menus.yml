@@ -15,12 +15,12 @@ topmenu:
 # Footer Menu
 footermenu:
 
-- title: Home
-  url: ""
-
 - title: Privacy Policy
   url: "privacy-policy/"
 
-- title: Contact
-  url: "contact/"
+- title: Disclaimer
+  url: "disclaimer/"
+
+- title: Terms and Conditions
+  url: "terms-and-conditions/"
 
