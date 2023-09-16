@@ -2,14 +2,14 @@
 layout: page
 title: About
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/admin.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+Selamat datang di blog pribadi saya.
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+Saya Adhi Wijaya, pemilik sekaligus penulis dan pengelola blog ini. Blog ini saya gunakan untuk belajar menulis, dokumentasi, beropini, berekspresi, dan berbagi informasi tentang berbagai macam hal, topik, _niche_ dan tema yang menarik lainnya.
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+Saya berharap blog ini bisa bermanfaat bagi pembaca melalui sajian konten artikel yang akan terus diupdate kedepannya.
 
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+Terima kasih, Selamat membaca..
 
