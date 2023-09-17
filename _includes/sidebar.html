@@ -1,4 +1,25 @@
-<div class="sidebar sticky-top">        
+<div class="sidebar sticky-top">
+    <div class="sidebar-section">
+        <h5><span>Popular Post</span></h5>
+        <ol class="list-featured">				
+            {% for post in site.tags.featured %}                
+                <li class="mb-4">
+                <span>
+                    <h6 class="font-weight-bold">
+                        <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
+                    </h6>
+                    <span class="d-block text-muted">
+                        In <span class="catlist">
+                        {% for category in post.categories %}
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                        {% endfor %}
+                        </span>
+                    </span>
+                </span>
+                </li>                
+            {% endfor %}   
+        </ol>
+    </div>        
     <div class="sidebar-section">
         <h5><span>Newsletter</span></h5>
         {% include newsletter.html %}
